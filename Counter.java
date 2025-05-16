@@ -6,7 +6,7 @@ public class Counter {
             } else if (new FizzChecker().isFizz(i)) {
                 System.out.println("シルク");
             } else if (new BuzzChecker().isBuzz(i)) {
-                System.out.println("buzz");
+                System.out.println("おーいbuzzううううぅぅぅ");
             } else {
                 System.out.println(i);
             }
