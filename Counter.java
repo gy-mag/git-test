@@ -4,7 +4,7 @@ public class Counter {
             if (new FizzBuzzChecker().isFizzBuzz(i)) {
                 System.out.println("fruitszipper");
             } else if (new FizzChecker().isFizz(i)) {
-                System.out.println("fizz");
+                System.out.println("シルク");
             } else if (new BuzzChecker().isBuzz(i)) {
                 System.out.println("buzz");
             } else {
